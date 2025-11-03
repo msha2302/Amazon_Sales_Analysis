@@ -26,9 +26,29 @@ It provides insights into **sales trends**, **regional performance**, **top-sell
 **3. Load**  
 - Final structured dataset loaded into Power BI for reporting and dashboard creation
 
+## Report Creation:
+
+**1. Sales Overview**  
+- Provides a high-level summary of sales performance and order distribution.
+
+**2. Product Page** 
+- Showcases the product variety by various categories
+
+
+**3. Regional statistics** 
+- Focuses on geographic performance and identifies top markets.
+
+
+**4. Seller Information** 
+- Analyzes seller contribution, ratings, and stock levels.
+
+
 ## 📷 Dashboard Preview
 **Overview:** 
-![Dashboard](Amazon_Sales.pdf)
+![Dashboard](preview1.png)
+![Dashboard](preview2.png)
+![Dashboard](preview3.png)
+![Dashboard](preview4.png)
 
 ## 📊 **Key Metrics**
 

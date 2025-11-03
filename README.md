@@ -24,7 +24,11 @@ It provides insights into **sales trends**, **regional performance**, **top-sell
 - Aggregated sales metrics for analysis  
 
 **3. Load**  
-- Final structured dataset loaded into Power BI for reporting and dashboard creation  
+- Final structured dataset loaded into Power BI for reporting and dashboard creation
+
+## 📷 Dashboard Preview
+**Overview:** 
+![Dashboard](Amazon_Sales.pdf)
 
 ## 📊 **Key Metrics**
 

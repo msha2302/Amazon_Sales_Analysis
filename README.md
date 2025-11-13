@@ -1,4 +1,4 @@
-# 🛒 **Amazon Sales Analysis Dashboard (Power BI)**
+# 🛒 **Amazon Sales Analysis Report (Power BI)**
 
 ## 📘 **Overview**
 The **Amazon Sales Dashboard** is an interactive **Power BI project** that visualizes sales performance across India.  
@@ -43,7 +43,7 @@ It provides insights into **sales trends**, **regional performance**, **top-sell
 - Analyzes seller contribution, ratings, and stock levels.
 
 
-## 📷 Dashboard Preview
+## 📷 Report Preview
 **Overview:** 
 ![Dashboard](preview1.png)
 ![Dashboard](preview2.png)
